@@ -16,5 +16,10 @@ Create Layer - arn:aws:lambda:us-east-1:770693421928:layer:Klayers-p38-Pillow:3
 Create s3 event trigger for "create objects" and destination to the lambda arn created above
 
 
+TASK2
+Create 2 IAM policies using the json policy files 
+On userB - Attach the BucketB read only policy
+On userA - Attach the BucketA RW policy
+
 
 
