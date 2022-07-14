@@ -1,6 +1,6 @@
 ****S3****
-Create s3-bucket-a
-Create s3-bucket-b
+-Create s3-bucket-a
+-Create s3-bucket-b
 
 ****IAM****
 Create IAM Policy - IAM.JSON
