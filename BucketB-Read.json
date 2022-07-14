@@ -7,7 +7,7 @@
         "s3:ListBucket"
       ],
       "Effect": "Allow",
-      "Resource": "arn:aws:s3:::gary-a"
+      "Resource": "arn:aws:s3:::gary-b"
     }
   ]
 }
