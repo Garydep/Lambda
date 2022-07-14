@@ -10,7 +10,7 @@
 1. Create function called "handler"
 2. Upload handler.zip
 3. Create Layer - arn:aws:lambda:us-east-1:770693421928:layer:Klayers-p38-Pillow:3
-    3.1 This layer includes the PIL (python image library)
+     "This layer includes the PIL (python image library)"
 
 ****s3****
 1. Create s3 event trigger for "create objects" and destination to the lambda arn created above
